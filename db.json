@@ -1,0 +1,11 @@
+[
+  {
+    "DisputeDate" : "2023-09-18",
+    "DisputeType" : "Chargeback",
+    "DisputeAmount" : 10.25,
+    "CardType": "Visa",
+    "CaseNumber" : "1234567890254125",
+    "ARN": "05295314304000000000456",
+    "OriginalTransactionDate" : "2023-09-01"    
+  }
+]
