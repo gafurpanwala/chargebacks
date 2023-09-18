@@ -6,6 +6,12 @@
     "CardType": "Visa",
     "CaseNumber" : "1234567890254125",
     "ARN": "05295314304000000000456",
-    "OriginalTransactionDate" : "2023-09-01"    
+    "OriginalTransactionDate" : "2023-09-01",
+    "ReasonDescKey" : "",
+    "ReasonDesc" : "",
+    "ResolutionDate" : null,
+    "BatchID: 84179626,
+    "MID" : "622200000000723",
+    "PAN" : "530638******5276"
   }
 
